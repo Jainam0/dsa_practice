@@ -49,3 +49,24 @@ Unary Operator
 
 Assigment Operators 
 ![alt text](image-13.png)
+
+Relatonal Operators
+![alt text](image-14.png)
+
+Logical Operators
+![s](image-15.png)
+
+## Conditional Statements
+
+if-else
+![alt text](image-16.png)
+![alt text](image-17.png)
+
+else if
+![alt text](image-18.png)
+
+Ternary Operator
+![alt text](image-19.png)
+
+Switch Statement
+![alt text](image-20.png)
