@@ -27,3 +27,25 @@ Comprehensive notes and examples for learning C++ programming language.
 Data Types
 
 ![alt text](image-6.png)
+
+Symbolic Constant # macros can be used as datatype modifier
+![alt text](image-7.png)
+
+Typecasting
+
+implicit
+![alt text](image-8.png)
+
+explicit
+![alt text](image-9.png)
+
+Operator 
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+Unary Operator
+![alt text](image-12.png)
+
+Assigment Operators 
+![alt text](image-13.png)
